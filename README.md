@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abhilash Reddy
 
-🎯 Data Analyst transitioning from a 5+ year career in Banking & Insurance
+🎯 Data Analyst transitioning from a 5 year career in Banking & Insurance
 
 🔧 Tools & Skills:  
 Power BI | SQL | Excel | DAX | Power Query | Data Modeling | Business Intelligence | KPI Dashboards
