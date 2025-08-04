@@ -10,6 +10,7 @@ Power BI | SQL | Excel | DAX | Power Query | Data Modeling | Business Intelligen
 - 📊 [Shield Insurance - Sales Dashboard](https://github.com/AnuguAbhilashreddy/Shield-insurance-POWERBI-Dashboard)
 - 🍕 [Pizza Sales Analysis (SQL)](https://github.com/AnuguAbhilashreddy/Pizza-sales-Sql-analysis)
 - 📦 [Ad-hoc SQL Analysis for AtliQ](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql)
+- 📈 [Sales Performance Dashboard - Excel Edition] (https://github.com/AnuguAbhilashreddy/Sales-Performance-Dashboard-Excel-Edition)
 
 🌐 Check my full portfolio:  
 [https://codebasics.io/portfolio/abhilash-reddy-Anugu](https://codebasics.io/portfolio/abhilash-reddy-Anugu)
